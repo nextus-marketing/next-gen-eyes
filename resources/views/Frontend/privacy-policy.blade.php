@@ -1,0 +1,84 @@
+@extends('layouts.frontend')
+@section('title') Privacy Policy | Next Gen Eyes @endsection
+@section('content')
+
+<!-- Breadcrumb Section -->
+<section class="breadcrumb-area d-flex align-items-center" style="background-image:url(/frontend/img/testimonial/test-bg.png)">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-xl-12 col-lg-12">
+                <div class="breadcrumb-wrap text-left">
+                    <div class="breadcrumb-title">
+                        <h2>Privacy Policy</h2>    
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">Privacy Policy</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Privacy Policy Content -->
+<div class="about-area5 about-p pt-70 pb-90 p-relative">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="service-detail">
+                    <div class="content-box">
+
+                        <!-- Intro Text -->
+                        <p>A properly installed CCTV system not only helps in crime prevention but also aids in investigations by providing clear and recorded footage. Businesses benefit from increased employee and asset protection, while homeowners gain peace of mind knowing their loved ones and property are secure. Whether for residential, commercial, or industrial purposes, investing in a reliable CCTV installation is a proactive approach to safety and surveillance.</p>
+
+                        <p>In today's evolving world, security is more important than ever. Our blog provides in-depth articles on CCTV technology, surveillance best practices, and innovative security solutions to help you make informed decisions. Whether you're a homeowner, business owner, or security enthusiast, our expert insights will keep you updated on the best ways to protect what matters most.</p>
+
+                        <p>Explore the latest trends, expert advice, and innovative solutions in security and surveillance. Stay ahead with insights that help you protect your home, business, and assets effectively. Gain valuable knowledge on advanced CCTV systems, smart monitoring, and reliable security practices to ensure maximum safety at all times. Whether you're looking to upgrade your existing security setup or implement a new system, our expert guidance will help you make informed decisions for a safer and more secure environment.</p>
+
+                        <h3 class="mt-4">Stay Secure, Stay Informed</h3>
+                        <p>Explore the latest trends, expert advice, and innovative solutions in security and surveillance. Stay ahead with insights that help you protect your home, business, and assets effectively. Gain valuable knowledge on advanced CCTV systems.</p>
+
+                        <ul class="list-style-one mb-4">
+                            <li>Advanced CCTV solutions with high-definition clarity, night vision, and motion detection for round-the-clock security.</li>
+                            <li>Seamless integration with smart home and business security systems, allowing remote monitoring from anywhere.</li>
+                            <li>Reliable and durable surveillance equipment designed to withstand various environmental conditions for long-term use.</li>
+                            <li>Expert installation and maintenance services to ensure optimal camera placement and uninterrupted security coverage.</li>
+                            <li>24/7 real-time monitoring and instant alerts to keep you informed and in control of your security at all times.</li>
+                        </ul>
+
+                        <!-- Privacy Policy Section -->
+                        <h3 class="mt-4">Privacy Policy</h3>
+                        <p>At <b>Next Gen Eyes</b>, we are committed to protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information when you interact with our products, services, and website. By using our services, you agree to the collection and use of information in accordance with this policy.</p>
+
+                        <h5 class="mt-3">1. Information We Collect</h5>
+                        <p>When you sign up for services, contact us, or fill out forms on our website, we may collect personal details such as your name, email address, phone number, billing information, and physical address.</p>
+                        <p>We also automatically collect information when you use our website or services, such as your IP address, browser type, device information, and usage patterns.</p>
+                        <p>If you use our home security products or services, we may collect data related to your security system’s performance, including sensor status, alarm events, and video footage (if applicable).</p>
+
+                        <h5 class="mt-3">2. Data Sharing</h5>
+                        <p>We do not sell or rent your personal information to third parties. However, we may share your information in the following situations:</p>
+                        <ul class="list-style-one text-start">
+                            <li>With trusted third-party vendors who help us deliver services, such as payment processors or installation partners.</li>
+                            <li>When required by law or to protect our legal rights, for example in response to a subpoena, court order, or government request.</li>
+                        </ul>
+
+                        <h5 class="mt-3">3. Data Security</h5>
+                        <p>We take the security of your personal information seriously. We implement industry-standard measures like encryption, firewalls, and secure access controls to protect your data. However, no method of transmission over the Internet or electronic storage is 100% secure.</p>
+
+                        <h5 class="mt-3">4. Contact Us</h5>
+                        <p>If you have any questions about this Privacy Policy or how we handle your personal information, please contact us:</p>
+                        <p>Phone: +1 (888) 447-6320<br>
+                           Address: Jersey City, NJ 07097</p>
+                        <p>By using our services, you consent to the terms of this Privacy Policy.</p>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@endsection

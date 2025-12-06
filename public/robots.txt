@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap: https://nextgeneyes.com/sitemap.xml
