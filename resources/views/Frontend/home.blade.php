@@ -16,7 +16,7 @@
                            <div class="row justify-content-center align-items-center">
                                 <div class="col-lg-7 col-md-7">
                                     <div class="slider-content s-slider-content">
-                                         <h1 data-animation="fadeInUp" data-delay=".4s">Enhanced Security for Your Home and Businessssssss</h1>
+                                         <h1 data-animation="fadeInUp" data-delay=".4s">Enhanced Security for Your Home and Business</h1>
                                         <p data-animation="fadeInUp" data-delay=".6s">Experience peace of mind with our innovative security solutions, ensuring your property is secure around the clock.</p>
                                         
                                          <div class="slider-btn mt-30 mb-160">     
