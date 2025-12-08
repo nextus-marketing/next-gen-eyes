@@ -123,8 +123,6 @@
                                 <li><a href="/">Home</a></li>
                                 <li><a href="/#about"> About Us</a></li>
                                 <li><a href="/#contact"> Contact Us</a></li>
-                                <li><a href="/privacy-policy">Privacy Policy</a></li>
-                                <li><a href="/terms-and-condition">Terms and Condition</a></li>
                             </ul>
                         </div>
                     </div>
@@ -138,8 +136,8 @@
                         <div class="footer-link">
                             <ul>
                                 <!-- Added email and phone -->
-                                <li>Email:<a href="mailto:info@nextgeneyes.com">info@nextgeneyes.com</a></li>
-                                <li>Contact:<a href="tel:+1234567890">+1 (551) 348-1040</a></li>
+                                <li><a href="mailto:info@nextgeneyes.com">info@nextgeneyes.com</a></li>
+                                <li><a href="tel:+1234567890">+1 (551) 348-1040</a></li>
                             </ul>
                         </div>
                     </div>
@@ -148,6 +146,35 @@
             </div>
         </div>
     </div>
+    <div class="copyright-wrap">
+    <div class="container">
+        <div class="row align-items-center">
+
+            <!-- RIGHT SIDE FIRST -->
+            <div class="col-lg-6">
+                <div class="text">Copyright © 2025 Next Gen Eyes. All rights reserved.</div>
+            </div>
+
+            <!-- LEFT SIDE SECOND -->
+            <div class="col-lg-4">
+                <ul>
+                    <li>
+                        <a href="/privacy-policy">
+                            <div class="text2">Privacy Policy</div>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/terms-and-condition">
+                            <div class="text2">Terms and Condition</div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+
 </footer>
 
 <div id="promoPopup" class="promo-popup-overlay">
@@ -257,6 +284,74 @@
 .close-popup:hover {
     color: #ff1749;
     transform: rotate(90deg);
+}
+
+</style>
+
+   <a href="tel:+18437994445" class="call-now-float">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff">
+        <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 
+                 1 0 011-.24 11.05 11.05 0 003.47.56 1 1 0 011 1V21a1 
+                 1 0 01-1 1A17 17 0 013 5a1 1 0 011-1h3.5a1 
+                 1 0 011 1 11.05 11.05 0 00.56 3.47 1 
+                 1 0 01-.24 1l-2.2 2.2z"/>
+    </svg>
+</a>
+
+
+<style>
+    .call-now-float {
+    position: fixed;
+    bottom: 70px;
+    left: 25px;
+   width: 50px;
+    height: 50px;
+    background: #c50a33ff;
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 28px;
+    z-index: 9999;
+    cursor: pointer;
+    animation: pulseCall 1.6s infinite ease-in-out;
+    box-shadow: 0 6px 20px rgba(238, 81, 178, 0.45);
+}
+
+.call-now-float i {
+    color: #fff;
+}
+
+/* Keyframe Animation */
+@keyframes pulseCall {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(232, 96, 171, 0.7);
+    }
+    50% {
+        transform: scale(1.12);
+        box-shadow: 0 0 0 12px rgba(202, 96, 232, 0);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 0 0 rgba(202, 96, 232, 0);
+    }
+}
+
+#scrollUp {
+    background: #c50a33ff;
+    height: 45px;
+    width: 45px;
+    right: 50px;
+    bottom: 77px;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 22px;
+    line-height: 45px;
+    transition: .3s;
 }
 
 </style>

@@ -170,16 +170,16 @@
           
               <!-- services-three-area -->
 <!-- services-three-area -->
- <section id="services-08" class="services-08 pt-120 pb-120 p-relative fix">
+    <section id="services-08" class="services-08 pt-120 pb-120 p-relative fix">
                 <div class="container">
                     <div class="section-title text-center mb-3 mt-3">
-            <h2 style="margin-top:40px;">Why Choose Us</h2>
-            <h5 style="font-size: 18px; margin-top:10px;">
-                <span class="line2">
-                    <img src="/frontend/img/bg/circle_right.png" alt="circle_right">
-                </span>
-            </h5>
-        </div>
+                    <h2 style="margin-top:40px;">Why Choose Us</h2>
+                    <h5 style="font-size: 18px; margin-top:10px;">
+                        <span class="line2">
+                            <img src="/frontend/img/bg/circle_right.png" alt="circle_right">
+                        </span>
+                    </h5>
+                </div>
                     <div class="row services-08-item--wrapper mt-0">
                             
                               
@@ -224,7 +224,7 @@
 					
                      
                     </div>
-            </section>
+    </section>
 
             
             <!-- counter-area -->
