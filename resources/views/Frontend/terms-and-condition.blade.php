@@ -77,8 +77,10 @@
                         <p>We may update these Terms from time to time. When we do, we will revise the “Effective Date” at the top of this page. Continued use of our services after changes have been posted constitutes your acceptance of the updated Terms.</p>
 
                         <h5 class="mt-3">13. Contact Us</h5>
-                        <p>Phone: <a href="tel:+18884476320">+1 (888) 447-6320</a><br>
-                           Address: Jersey City, NJ 07097</p>
+                        <p>Email: <a href="mailto:info@nextgeneyes.com">info@nextgeneyes.com</a>
+                        <br>
+                           Address: Jersey City, NJ 07097 <br>
+                            Phone: <a href="tel:+12544108166">+1(254) 410-8166</a></p>
                     </div>
                 </div>
             </div>

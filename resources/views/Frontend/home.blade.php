@@ -20,7 +20,7 @@
                                         <p data-animation="fadeInUp" data-delay=".6s">Experience peace of mind with our innovative security solutions, ensuring your property is secure around the clock.</p>
                                         
                                          <div class="slider-btn mt-30 mb-160">     
-                                             <a href="#0" class="btn ss-btn active mr-15">Talk To An Expert</a>
+                                             <a href="tel:+12544108166" class="btn ss-btn active mr-15">Talk To An Expert</a>
                                              
                                         </div>        
                                                               
@@ -87,7 +87,7 @@
                              
                     </div>
                     <div class="slider-btn d-flex justify-content-center mt-5 d-lg-none">                                          
-                              <a href="#0" class="btn ss-btn">Call Now</a>					
+                              <a href="tel:+12544108166" class="btn ss-btn">Call Now</a>					
                      </div>  
                 </div>
                 
@@ -134,7 +134,7 @@
                                
                             </ul>
                               <div class="slider-btn mobile">                                          
-                                            <a href="#0" class="btn ss-btn">Call Now</a>					
+                                            <a href="tel:+12544108166" class="btn ss-btn">Call Now</a>					
                                </div>
                       
                             </div>
@@ -154,7 +154,7 @@
                             </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 text-xl-end text-lg-end text-center">
-                            <a href="#" 
+                            <a href="tel:+12544108166" 
                             class="btn"
                             style="background:#ffffff; color:#000; padding:22px 28px; font-size:16px; border-radius:6px; border:1px solid #fff;
                                     transition:0.3s;"
@@ -328,7 +328,7 @@
                         </div>
                     </div>
                     <div class="slider-btn d-flex justify-content-center mt-5">                                          
-                          <a href="#0" class="btn ss-btn">Free Consultation</a>					
+                          <a href="tel:+12544108166" class="btn ss-btn">Free Consultation</a>					
                     </div>
                 </div>
             </section>
@@ -490,7 +490,7 @@
                         
                         </div>
                         <div class="col-lg-12 col-md-12 mt-3">
-                            <a href="#0" class="btn ss-btn">Call Now</a>
+                            <a href="tel:+12544108166" class="btn ss-btn">Call Now</a>
                         </div>
                         
                        

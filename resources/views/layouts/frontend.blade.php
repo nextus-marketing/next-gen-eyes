@@ -79,7 +79,7 @@
 
                     <!-- Call Now Button (Desktop only) -->
                     <div class="col-xl-3 col-lg-3 text-right d-none d-lg-block mt-15 mb-15">
-                        <a href="#0" class="top-btn">Call Now</a>
+                        <a href="tel:+12544108166" class="top-btn">Call Now</a>
                     </div>
 
                     <!-- Mobile Menu -->
@@ -136,8 +136,9 @@
                         <div class="footer-link">
                             <ul>
                                 <!-- Added email and phone -->
-                                <li><a href="mailto:info@nextgeneyes.com">info@nextgeneyes.com</a></li>
-                                <li><a href="tel:+1234567890">+1 (551) 348-1040</a></li>
+                                <li><a href="mailto:info@nextgeneyes.com">info@nextgeneyes.com</a></li> 
+                                <li><a>Address: Jersey City, NJ 07097</a></li>
+                                <li><a href="tel:+12544108166">+1(254) 410-8166</a></li>
                             </ul>
                         </div>
                     </div>
@@ -187,7 +188,7 @@
             <h2>Get <span style="color:#ff1749;">3 Months FREE</span> Monitoring!</h2>
             <p>Call now and secure your home with our exclusive limited-time offer.</p>
             <div class="slider-btn">                                          
-                            <a href="#0" class="btn ss-btn">Call Now</a>					
+                            <a href="tel:+12544108166" class="btn ss-btn">Call Now</a>					
                         </div>
         </div>
     </div>
@@ -288,7 +289,7 @@
 
 </style>
 
-   <a href="tel:+18437994445" class="call-now-float">
+   <a href="tel:+12544108166" class="call-now-float">
     <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff">
         <path d="M6.62 10.79a15.053 15.053 0 006.59 6.59l2.2-2.2a1 
                  1 0 011-.24 11.05 11.05 0 003.47.56 1 1 0 011 1V21a1 

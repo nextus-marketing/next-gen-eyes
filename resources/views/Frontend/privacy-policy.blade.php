@@ -70,8 +70,10 @@
 
                         <h5 class="mt-3">4. Contact Us</h5>
                         <p>If you have any questions about this Privacy Policy or how we handle your personal information, please contact us:</p>
-                        <p>Phone: <a href="tel:+18884476320">+1 (888) 447-6320</a><br>
-                           Address: Jersey City, NJ 07097</p>
+                        <p>Email: <a href="mailto:info@nextgeneyes.com">info@nextgeneyes.com</a>
+                        <br>
+                           Address: Jersey City, NJ 07097 <br>
+                            Phone: <a href="tel:+12544108166">+1(254) 410-8166</a></p>
                         <p>By using our services, you consent to the terms of this Privacy Policy.</p>
                     </div>
                 </div>
