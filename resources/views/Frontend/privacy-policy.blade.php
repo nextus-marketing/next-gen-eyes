@@ -73,7 +73,6 @@
                         <p>Phone: <a href="tel:+18884476320">+1 (888) 447-6320</a><br>
                            Address: Jersey City, NJ 07097</p>
                         <p>By using our services, you consent to the terms of this Privacy Policy.</p>
-
                     </div>
                 </div>
             </div>
